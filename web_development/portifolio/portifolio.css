@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-underline-position: below;
+}
+.notes{
+    display: flex;
+justify-content: right;;
+
+      
+}
+body{
+    background-color: black;
+}    
+  
+

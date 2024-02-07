@@ -1,0 +1,12 @@
+h6{ 
+    font-size: xx-large; text-align: center; color: chartreuse(196, 209, 200);
+}
+body  {
+    background-image: url(../fooooood.webp);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+p{
+    font-size: larger;
+    color: aliceblue;
+}
